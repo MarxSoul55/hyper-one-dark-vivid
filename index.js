@@ -8,11 +8,12 @@ const colors = {
   black       : backgroundColor,
   red         : '#ef596f', // red
   green       : '#89ca78', // green
-  yellow      : '#d8985f', // yellow
+  yellow      : '#ffe033', // yellow
   blue        : '#52adf2', // blue
   magenta     : '#d55fde', // pink
-  cyan        : '#52adf2', // cyan
+  cyan        : '#2ae8e8', // cyan
   white       : '#d0d0d0', // light gray
+
   lightBlack  : '#808080', // medium gray
   lightRed    : '#ef596f', // red
   lightGreen  : '#89ca78', // green
