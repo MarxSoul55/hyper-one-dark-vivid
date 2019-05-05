@@ -8,10 +8,10 @@ const colors = {
   black       : backgroundColor,
   red         : '#ef596f', // red
   green       : '#89ca78', // green
-  yellow      : '#ffe033', // yellow
+  yellow      : '#dcb334', // yellow
   blue        : '#52adf2', // blue
   magenta     : '#d55fde', // pink
-  cyan        : '#2ae8e8', // cyan
+  cyan        : '#26cfcf', // cyan
   white       : '#d0d0d0', // light gray
 
   lightBlack  : '#808080', // medium gray
